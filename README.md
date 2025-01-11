@@ -1,4 +1,8 @@
-# MoSimPublic
- The public repo for the FRC Driving Simulator MoSim
+# MoSim1155TFCMod
 
- If you fork this project and make changes to it, please credit me.
+**INCOMPLETE, AS OF 1/11/2025**
+
+Credits to @GreenMachineStudios for [the soruce code](https://github.com/GreenMachineStudios/MoSimPublic)!
+
+This repository contains a mod for MoSim that adds FRC Team 1155's 2024 robot, Taiwanese Fried Chicken.
+
