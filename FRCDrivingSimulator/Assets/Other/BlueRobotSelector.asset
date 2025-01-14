@@ -23,5 +23,5 @@ MonoBehaviour:
     robotImage: {fileID: 21300000, guid: 4031a5d5f7b3d2745b45e0a7f5e67141, type: 3}
     robotNumber: 1678
   - robotName: Sciborgs
-    robotImage: {fileID: 21300000, guid: 4031a5d5f7b3d2745b45e0a7f5e67141, type: 3}
-    robotNumber: 1678
+    robotImage: {fileID: 21300000, guid: da2484aa105fbf64abeb7849b7ebd7e3, type: 3}
+    robotNumber: 1155
